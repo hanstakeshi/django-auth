@@ -46,6 +46,7 @@ DJANGO_APPS = [
 ]
 LOCAL_APPS = [
     'apps.web',
+    'apps.module_auth'
 ]
 
 THIRD_PART_APPS = [
